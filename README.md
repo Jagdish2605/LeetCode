@@ -123,4 +123,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Jagdish2605/LeetCode/tree/master/0056-merge-intervals) |
+## Math
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Jagdish2605/LeetCode/tree/master/0836-rectangle-overlap) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Jagdish2605/LeetCode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
